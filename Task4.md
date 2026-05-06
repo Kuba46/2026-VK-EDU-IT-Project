@@ -1,8 +1,8 @@
 # C4 Level 1 — System Context
-<img src="assets/c4-context.jpg" alt="Контекст" width="500">
+<img src="assets/c4-context.jpg" alt="Контекст" width="800">
 
 # C4 Level 2 — Containers
-<img src="assets/c4-containers.jpg" alt="Контейнеры" width="500">
+<img src="assets/c4-containers.jpg" alt="Контейнеры" width="800">
 
 ## Стек технологий EduFlex MVP
 
