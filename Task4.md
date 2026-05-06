@@ -1,8 +1,8 @@
 # C4 Level 1 — System Context
-![Image alt](https://github.com/Kuba46/2026-VK-EDU-PROJECT/raw/main/assets/c4-context.jpg)
+<img src="assets/c4-context.jpg" alt="Контекст" width="500">
 
 # C4 Level 2 — Containers
-![Image alt](https://github.com/Kuba46/2026-VK-EDU-PROJECT/raw/main/assets/c4-containers.jpg)
+<img src="assets/c4-containers.jpg" alt="Контейнеры" width="500">
 
 ## Стек технологий EduFlex MVP
 
