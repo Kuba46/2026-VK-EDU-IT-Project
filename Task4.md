@@ -1,10 +1,8 @@
 # C4 Level 1 — System Context
-
-Система EduFlex взаимодействует с тремя типами пользователей и тремя внешними сервисами. Теперь Level 2 — контейнеры:
+![Image alt](https://github.com/Kuba46/2026-VK-EDU-PROJECT/raw/main/assets/c4-context.jpg)
 
 # C4 Level 2 — Containers
-
----
+![Image alt](https://github.com/Kuba46/2026-VK-EDU-PROJECT/raw/main/assets/c4-containers.jpg)
 
 ## Стек технологий EduFlex MVP
 
